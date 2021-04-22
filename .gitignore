@@ -39,6 +39,7 @@ Thumbs.db
 # Racket #
 
 *.bak
+*.rkt
 *.rkt~
 \#devel.dr.rkt#2#
 \#devel.rkt#
